@@ -1,0 +1,12 @@
+﻿  源.cpp
+c:\users\heghehog\documents\visual studio 2017\projects\retrosnaker\retrosnaker\源.cpp(25): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\heghehog\documents\visual studio 2017\projects\retrosnaker\retrosnaker\源.cpp(154): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\heghehog\documents\visual studio 2017\projects\retrosnaker\retrosnaker\源.cpp(169): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+c:\users\heghehog\documents\visual studio 2017\projects\retrosnaker\retrosnaker\源.cpp(174): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\heghehog\documents\visual studio 2017\projects\retrosnaker\retrosnaker\源.cpp(178): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  RetroSnaker.vcxproj -> C:\Users\heghehog\documents\visual studio 2017\Projects\RetroSnaker\Debug\RetroSnaker.exe
+  RetroSnaker.vcxproj -> C:\Users\heghehog\documents\visual studio 2017\Projects\RetroSnaker\Debug\RetroSnaker.pdb (Partial PDB)
